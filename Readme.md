@@ -51,4 +51,4 @@ https://web.dio.me/track/formacao-scrum-master
 
 <br>Se possível:  ⭐️ Star o projeto
 
-<img src=" ">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/63E7A27C.jpg">
