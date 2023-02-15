@@ -1,9 +1,10 @@
 # Formação Scrum Master Certification
 https://web.dio.me/track/formacao-scrum-master
 
- Avançado
-肋 22 hrs
-1214 devs já se inscreveram
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/ce836317-7430-419d-850e-9d113e607b2e.png"/></div>
+
+
+      Avançado * 肋 22 hrs * 1214 devs já se inscreveram
 
 <br>Chegou a hora de você dominar e entender todos os fundamentos do Scrum, um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos. A gestão ágil com Scrum permite um desenvolvimento flexível, iterativo e incremental de novos produtos e serviços, sempre promovendo uma cultura voltada ao aprendizado, melhoria contínua e aproximação com o cliente. Além de dominar os fundamentos e o framework Scrum, ao final da Formação você estará preparado para a Certificação Internacional: Professional Scrum Master I (PSM I) da Scrum.org. Vem com a gente nessa jornada e potencialize a sua carreira
 
